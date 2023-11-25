@@ -1,0 +1,9 @@
+{
+    "name": "root/php-string-sort-mvc",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpStringSortMvc\\": "src/"
+        }
+    },
+    "require": {}
+}
